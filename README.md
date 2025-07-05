@@ -3,7 +3,7 @@
 ## Slides  
 [View PDF slides](./FINAL%20PRESENTATION%20MIST%205640.pdf)
 
-[View Digital Inventory Prototype (can interact)](./thens_Inventory_Prototype_With_Analytics.xlsx)
+[View Digital Inventory Prototype (can interact)](./Athens_Inventory_Prototype_With_Analytics.xlsx)
 
 [View Full Project Binder](./FINAL%20PRESENTATION%20MIST%205640.pdf)
 
