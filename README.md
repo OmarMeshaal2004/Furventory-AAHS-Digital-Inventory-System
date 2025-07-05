@@ -30,8 +30,8 @@ Created the foundational framework for “Furventory,” a system to track donat
 
 ## Resources
 
-- **Slides (PDF)** — [FINAL_PRESENTATION_MIST 5640.pdf](./FINAL%20PRESENTATION%20MIST%205640.pdf)
-- **Interactive Prototype (Excel)** — [Athens_Inventory_Prototype_With_Analytics.xlsx](./Athens_Inventory_Prototype_With_Analytics.xlsx)
-- **Project Binder (PDF)** — [Furventory_Athens_Humane_Society_Project_Binder.pdf](./Furventory%20The%20Athens%20Area%20Humane%20Society%E2%80%99s%20Digital%20Inventory%20Tracking%20System%20Project%20Binder.pdf)
+- **Slides (PDF)** — [FINAL PRESENTATION MIST 5640.pdf](./FINAL%20PRESENTATION%20MIST%205640.pdf)
+- **Interactive Prototype (Excel)** — [Athens Inventory Prototype With Analytics.xlsx](./Athens_Inventory_Prototype_With_Analytics.xlsx)
+- **Project Binder (PDF)** — [Furventory Athens Humane Society Project Binder.pdf](./Furventory%20The%20Athens%20Area%20Humane%20Society%E2%80%99s%20Digital%20Inventory%20Tracking%20System%20Project%20Binder.pdf)
 
 
