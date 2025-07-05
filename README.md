@@ -2,3 +2,5 @@
 
 ## Slides  
 [View PDF slides](./FINAL%20PRESENTATION%20MIST%205640.pdf)
+
+![image](https://github.com/user-attachments/assets/60cde4fe-3be9-45c9-808e-6ed5cb6b99f1)
